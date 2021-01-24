@@ -52,3 +52,4 @@ namespace ClassMetotDemo
         }
     }
 }
+//16 ocak 2021 ders ödevi .... 
